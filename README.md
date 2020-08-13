@@ -1,2 +1,4 @@
 # 15-Puzzle
-The puzzle where the goal is to order the tiles.
+The puzzle in which the objective is to order the tiles from 1-15 with the 0 representing the empty space.
+
+All functions are defined above the actual use case in the bottom.
